@@ -1,4 +1,4 @@
-package com.example.vipul.randompin;
+package com.example.Shiv.randompin;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
